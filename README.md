@@ -1,27 +1,39 @@
-# RecipeApp
+# 🍲 Recipe App
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.17.
+A simple recipe management application built with **Angular**.  
+Users can view them in a clean, responsive card layout.  
 
-## Development server
+👉 **Live Demo**: [Recipe App on Netlify](https://recipes-example.netlify.app/)  
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+---
 
-## Code scaffolding
+## 🚀 Tech Stack
+- Angular  
+- TypeScript  
+- HTML5, CSS3, SCSS  
+- Responsive design  
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+---
 
-## Build
+## ✨ Features
+- 📜 Display all recipes in a neat card-based layout  
+- 🖼️ Each recipe shows an image, title, and ingredients list  
+- 📱 Responsive design for desktop and mobile  
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+---
 
-## Running unit tests
+## 📸 Screenshots
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+<img width="1292" height="498" alt="image" src="https://github.com/user-attachments/assets/74e6fb7c-cfff-4343-951c-909eec5cb958" />
 
-## Running end-to-end tests
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+---
 
-## Further help
+## 🛠️ Setup & Run Locally
+Clone the repository and install dependencies:
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+```bash
+git clone https://github.com/rishma123/recipe-app.git
+cd recipe-app
+npm install
+ng serve
